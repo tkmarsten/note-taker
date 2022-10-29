@@ -12,7 +12,7 @@ Use the command `npm i` to install the required packages.
 
 ## Usage
 
-Use the command `node index.js` or `nodemon` to run the program. After running the commands, the user will be prompted with questions in the terminal.
+Use the command `node server.js` or `nodemon` to run the program. The application may also be used [here](https://tiarnanm-note-taker.herokuapp.com/)
 
 ## Contribution
 
